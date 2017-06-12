@@ -1,0 +1,22 @@
+﻿  testProg.cpp
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\testprog.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\testprog.cpp(74): warning C4305: '=': truncation from 'double' to 'float'
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\testprog.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  personTypeImp.cpp
+  patientTypeImp.cpp
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\patienttypeimp.cpp(17): warning C4101: 'patientAge': unreferenced local variable
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\patienttypeimp.cpp(16): warning C4101: 'patientID': unreferenced local variable
+  doctorTypeImp.cpp
+  dateTypeImp.cpp
+  billTypeImp.cpp
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\billtypeimp.cpp(12): warning C4101: 'RoomCharges': unreferenced local variable
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\billtypeimp.cpp(13): warning C4101: 'patientID': unreferenced local variable
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\billtypeimp.cpp(10): warning C4101: 'PharmacyCharges': unreferenced local variable
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\billtypeimp.cpp(11): warning C4101: 'DoctorsFees': unreferenced local variable
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\billtypeimp.cpp(21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\billtypeimp.cpp(35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\billtypeimp.cpp(40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+d:\university\üniversite projeleri\billing system of hospital\billing system of hospital\billtypeimp.cpp(45): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Generating Code...
+  Billing System Of Hospital.vcxproj -> D:\UNIVERSITY\Üniversite Projeleri\Billing System Of Hospital\Debug\Billing System Of Hospital.exe
+  Billing System Of Hospital.vcxproj -> D:\UNIVERSITY\Üniversite Projeleri\Billing System Of Hospital\Debug\Billing System Of Hospital.pdb (Full PDB)
